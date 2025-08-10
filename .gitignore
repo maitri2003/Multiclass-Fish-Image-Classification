@@ -1,0 +1,35 @@
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+env/
+fishenv/
+
+# Large datasets (don’t push datasets to GitHub)
+data/
+*.zip
+*.tar.gz
+
+# Model files (skip if too large)
+models/*.h5
+models/*.hdf5
+
+# Streamlit cache
+.streamlit/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# OS system files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+models/
+models/*.h5

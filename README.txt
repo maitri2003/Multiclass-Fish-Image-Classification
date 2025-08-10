@@ -87,7 +87,7 @@ pip freeze > requirements.txt
 ### 4.1 Clone the Repository
 
 ```
-git clone https://github.com/<your-username>/Multiclass-Fish-Image-Classification.git
+git clone https://github.com/maitri2003/Multiclass-Fish-Image-Classification.git
 cd Multiclass-Fish-Image-Classification
 ```
 
@@ -120,3 +120,4 @@ python evaluate_models.py
 ---
 
 Do you want me to also **add the `.gitattributes` content for Git LFS tracking** of your `.h5` model files so this README matches your repo setup perfectly? That way, anyone cloning will get models without needing separate download links.
+
